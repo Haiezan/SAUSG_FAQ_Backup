@@ -13,7 +13,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ##### [1.1.如何安装SAUSAGE软件？](./1.安装问题/1.1.如何安装SAUSAGE软件？.md)
 ##### [1.2.SAUSAGE软件对电脑的软件和硬件配置有何要求？](/1.安装问题/1.2.SAUSAGE软件对电脑的软件和硬件配置有何要求？.md)
 ##### [1.3.为使用软件，单位准备配置电脑，能否给推荐一下？](/1.安装问题/1.3.为使用软件，单位准备配置电脑，能否给推荐一下？.md)
-##### [tttttt](/1.安装问题/test.md)
+##### [tttttt](/1.安装问题/1.2tttttt.md)
 
 #### 2.导入问题
 
