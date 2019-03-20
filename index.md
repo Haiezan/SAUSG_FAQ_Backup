@@ -20,7 +20,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ##### [2.2.SAUSAGE中梁、柱、墙、楼板的钢筋如何得来的？](/2.导入问题/2.2.SAUSAGE中梁、柱、墙、楼板的钢筋如何得来的？.md)
 ##### [2.3.导入SATWE数据时，梁、板、柱、墙的混凝土强度等级需要重新定义吗？](/2.导入问题/2.3.导入SATWE数据时，梁、板、柱、墙的混凝土强度等级需要重新定义吗？.md)
 ##### [2.4.导入SSG后，梁（柱）等构件的配筋量如何查看？？](/2.导入问题/2.4.导入SSG后，梁（柱）等构件的配筋量如何查看？.md)
-##### [AAAA](/test)
+##### [AAAA](/test.md)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
