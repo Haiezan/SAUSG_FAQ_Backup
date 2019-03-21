@@ -1,4 +1,4 @@
-## Welcome to SAUSG Q&A Pages
+## Welcome to SAUSG FAQ Pages
 
 ## 欢迎查阅SAUSG系列软件常见问题文档
 
