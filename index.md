@@ -40,7 +40,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. You c
 #### [2.20.转换结构的刚性杆是怎么模拟的？](/2.导入问题/2.20.转换结构的刚性杆是怎么模拟的.md)
 #### [2.21.导出模型到ABAQUS需要注意什么？](/2.导入问题/2.21.导出模型到ABAQUS需要注意什么.md)
 
-
 ### 3.前处理问题
 
 #### [3.2	重新生成边缘构件，边缘构件配筋会取SATWE的计算配筋吗？](/3.前处理问题/3.2.重新生成边缘构件,边缘构件配筋会取SATWE的计算配筋吗.md)
