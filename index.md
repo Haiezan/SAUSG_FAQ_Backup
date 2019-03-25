@@ -186,6 +186,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. You c
 #### [10.2.授权文件如何使用？](/10.授权问题/10.2.授权文件如何使用.md)
 #### [10.3.系统升级以后，软件未发现授权？](/10.授权问题/10.3.系统升级以后,软件未发现授权.md)
 
+### Before Asking Supports
+
+There are steps to follow:
+ - is your requirement reasonable?
+ - if so, then is your requirement covered by the official user maunal?
+ - if not, then you may truely need help
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
