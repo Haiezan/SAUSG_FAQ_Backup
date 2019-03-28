@@ -2,11 +2,9 @@
 
 ## 欢迎查阅SAUSG系列软件常见问题文档
 
-You can use the [editor on GitHub](https://github.com/Haiezan/SAUSG_QA/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+*文档采用Github共享编辑模式，任何人均可通过 [Github](https://github.com) 账号提交文档修改，您可以在个人账号中建立 [SAUSG_FAQ](https://github.com/Haiezan/SAUSG_FAQ) 分支以提交您自己的修改，文档所有者将对您提交的修改进行审核，确认后您可在共享文档中看到自己的修改内容。*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. You can download the software from [MarkdownPad](http://www.markdownpad.com/).
+**欢迎每位工程师参与到本文档的完善工作中。**
 
 ## 目录
 
@@ -192,12 +190,6 @@ There are steps to follow:
  - is your requirement reasonable?
  - if so, then is your requirement covered by the official user maunal?
  - if not, then you may truely need help
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Haiezan/SAUSG_QA/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
